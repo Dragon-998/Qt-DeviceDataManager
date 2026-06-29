@@ -1,0 +1,18 @@
+# Qt build folders
+build-*/
+*.pro.user
+*.user
+
+# Database runtime file
+device.db
+
+# Generated CSV files
+*.csv
+
+# Debug / release
+debug/
+release/
+
+# Windows
+.DS_Store
+Thumbs.db
