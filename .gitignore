@@ -1,4 +1,5 @@
 # Qt build folders
+build/
 build-*/
 *.pro.user
 *.user
